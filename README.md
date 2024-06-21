@@ -4,9 +4,9 @@ Myself Ektha. I am in my final years of B.E. Degree in Electronics and Communica
 
 In this account, you will find the Verilog related subjects
 
-- [RISC-V Single Cycle Processor](https://github.com/EkthaReddy/RISC-V-Single-Cycle-Processor)
-- [30 Days of Verilog Challenge](https://github.com/EkthaReddy/30-Days-of---Daily-Verilog-Programming-Challenge-) on LinkedIn 
-- [Verilog projects](https://github.com/EkthaReddy/Verilog-projects)
+- [RISC-V Single Cycle Processor](https://github.com/EkthaReddy/RISC-V-Single-Cycle-Processor).
+- [30 Days of Verilog Challenge](https://github.com/EkthaReddy/30-Days-of---Daily-Verilog-Programming-Challenge-) firstly opted on LinkedIn.  
+- [Verilog projects](https://github.com/EkthaReddy/Verilog-projects).
 
 
 ### Want to know about me more? 
