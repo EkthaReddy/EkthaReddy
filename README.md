@@ -9,7 +9,7 @@ In this account, you will find the Verilog related subjects
 - [Verilog projects](https://github.com/EkthaReddy/Verilog-projects).
 
 
-### Want to know about me more? 
+### Want to know more about me ? 
 Check out the [linkedIn account](www.linkedin.com/in/ekthareddy) for projects and certification I have completed or currently doing.
 
 Make sure to visit the [YouTube channel](www.youtube.com/@Codopro) for Verilog Codes, Verilog projects and Podcasts to be a version 7.0
