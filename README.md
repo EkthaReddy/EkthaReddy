@@ -18,6 +18,5 @@ Make sure to visit the YouTube channel at [www.youtube.com/@Codopro](#) for Veri
 
 Currently, I am doing my internship on RISC-V and VLSI Design using the mini board at VLSI System Design under the guidance of Kunal Ghosh.
 
-Checkout the repository for more details on the internship
-
-[VSDSquadron Mini Internship](https://github.com/EkthaReddy/VSDSquadron-Mini-Internship)
+Checkout the repository for more details on the internship 
+- [VSDSquadron Mini Internship](https://github.com/EkthaReddy/VSDSquadron-Mini-Internship)
