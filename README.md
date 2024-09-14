@@ -20,7 +20,10 @@ All information from the projects to internships I have completed in detail.
 
 <details>
    <summary><h4>Projects</h4></summary>
- Verilog
+<details>
+   <summary><h5>Verilog</h5></summary>
+
+   
 - Vending Machine
 - Washing Machine
 - RISCv Single Cycle Processor
@@ -28,8 +31,11 @@ All information from the projects to internships I have completed in detail.
 - Haming Decoder
 - SEC-SED Using Hamming technique.
 
-Cadence Virtuoso 
+</details>
 
+<details>
+   <summary><h5>Cadence Virtuoso</h5></summary>
+   
 - Five staged VCO
 - Rippple Carry Adder
 - SRAM
@@ -37,19 +43,51 @@ Cadence Virtuoso
 - 2x1 MUX
 - 4x1 Demultiplier
 
-FPGA Artix - 7
+</details> 
+
+<details>
+   <summary><h5>FPGA Artix - 7</h5></summary>
 
 - Full Adder
 - Hamming Encoder
 - Haming Decoder
 - SEC-SED Using Hamming technique.
+</details>
+
+
 
    
 </details>
 
 <details>
    <summary><h4>Internships</h4></summary>
+
+   ### NSIC 
+<details>
+   <summary><h5>Electric Vehicles</h5></summary>
    
+</details>
+
+<details>
+   <summary><h5>IoT Rasberry Pi</h5></summary>
+   
+</details>
+
+<details>
+   <summary><h5>VLSI System Design</h5></summary>
+   
+</details>
+
+<details>
+   <summary><h5>Intershala Trainings</h5></summary>
+   
+</details>
+
+<details>
+   <summary><h5>Pledge A Smile</h5></summary>
+   
+</details>
+
 </details>
 
 <details>
@@ -72,10 +110,7 @@ FPGA Artix - 7
    
 </details>
 
-<details>
-   <summary><h4></h4></summary>
-   
-</details>
+
 
 <details>
    <summary><h4></h4></summary>
@@ -87,10 +122,7 @@ FPGA Artix - 7
    
 </details>
 
-<details>
-   <summary><h4></h4></summary>
-   
-</details>
+
 
 
 
