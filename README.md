@@ -1,5 +1,103 @@
 ## Welcome Fam! 
+Myself Ektha Sudhakar Reddy from Chennai, Tamil Nadu.
 
+Email id : reddyektha@gmail.com
+
+LinkedIn Account : [www.linkedin.com/in/ekthareddy](#)
+
+YouTube channel : [www.youtube.com/@Codopro](#)
+
+
+<details>
+<summary><h3>About Me</h3></summary>
+
+   Final year student at R.M.K. Engineering College pursuing BE Degree on Electronics and Communication Engineering, maintaing the 8.47 CGPA
+Completed my 10th and 12th education from PM Shri Kendriya Vidyalaya of Ambarnath, Maharashtra and secured 85.6% and 86.6% respectively.
+
+To provide details about in brief, have done projects on VlSI and IoT. Internships at NSIC, Vlsi System Design, Intershala Trainings and Pledge a Smile.
+
+<details>
+   <summary><h4>Projects</h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4>Internships</h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4>Hackathons</h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4>Certifications</h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4>Skills</h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4>Extra ciriculum</h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4></h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4></h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4></h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4></h4></summary>
+   
+</details>
+
+
+
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
 Myself Ektha. I am in my final years of B.E. Degree in Electronics and Communication Engineering with VLSI honours.
 
 In this account, you will find the Verilog related subjects
