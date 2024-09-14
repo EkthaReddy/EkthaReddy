@@ -16,8 +16,34 @@ Completed my 10th and 12th education from PM Shri Kendriya Vidyalaya of Ambarnat
 
 To provide details about in brief, have done projects on VlSI and IoT. Internships at NSIC, Vlsi System Design, Intershala Trainings and Pledge a Smile.
 
+All information from the projects to internships I have completed in detail.
+
 <details>
    <summary><h4>Projects</h4></summary>
+ Verilog
+- Vending Machine
+- Washing Machine
+- RISCv Single Cycle Processor
+- Hamming Encoder
+- Haming Decoder
+- SEC-SED Using Hamming technique.
+
+Cadence Virtuoso 
+
+- Five staged VCO
+- Rippple Carry Adder
+- SRAM
+- Full Adder
+- 2x1 MUX
+- 4x1 Demultiplier
+
+FPGA Artix - 7
+
+- Full Adder
+- Hamming Encoder
+- Haming Decoder
+- SEC-SED Using Hamming technique.
+
    
 </details>
 
