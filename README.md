@@ -171,11 +171,18 @@ Make sure to visit the YouTube channel at [www.youtube.com/@Codopro](#) for Veri
 
 ### Internship 
 
-- Currently, I am doing an intership on VLSI Design at Intershala, covering concepts on combinational and sequential circuits, FSMs, System design using FPGA, and project to be done by the end of internship.
+<!--
+**Ongoing**
+
+- Currently, doing internship at Plasmid for embedded systems.
+- Time period: September to October 
+
+**Completed** -->
+
+- Completed intership on VLSI Design at Intershala, covering concepts on combinational and sequential circuits, FSMs, System design using FPGA, and project to be done by the end of internship.
 
    - This internship is helpful for building my knowledge and skills on VLSI design and also provide project as a practical based learning.
-
-
+   - 
 - I have completed my internship on RISC-V and VLSI Design using the mini board at VLSI System Design under the guidance of Kunal Ghosh.
 
 Checkout the repository for more details on the internship 
