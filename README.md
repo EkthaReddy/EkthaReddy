@@ -5,9 +5,9 @@ Email id : reddyektha@gmail.com
 
 LinkedIn Account : [www.linkedin.com/in/ekthareddy](#)
 
-YouTube channel : [www.youtube.com/@Codopro](#)
+YouTube channel : [www.youtube.com/@Codopro](#)  
 
-
+<!--
 <details>
 <summary><h3>About Me</h3></summary>
 
@@ -154,8 +154,7 @@ All information from the projects to internships I have completed in detail.
 
 
 
-
-   
+-->
 Myself Ektha. I am in my final years of B.E. Degree in Electronics and Communication Engineering with VLSI honours.
 
 In this account, you will find the Verilog related subjects
