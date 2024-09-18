@@ -102,7 +102,21 @@ For more details refer this [🔗link](https://github.com/EkthaReddy/Verilog-pro
 
 <details>
    <summary><h4>8 bit ALU using Verilog Programming on Xilinx Vivado</h4></summary>
-   
+
+Implementation of 8-bit ALU on Xilinx Vivado which is also implemented on FPGA board. In this, it have eight operations to perform, including arithmetic, logical and shift operation,
+These are the operation it performed,
+
+- Addition
+- Subtraction
+- Multiplication
+- Left Shift
+- Right Shift
+- Logical AND
+- Logical OR
+- Logical XOR
+
+
+For more details on codes and performance refer this [🔗link](https://github.com/EkthaReddy/8-bit-ALU-using-Verilog-HDL/tree/main). 
 </details>
 
 <details>
