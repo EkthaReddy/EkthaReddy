@@ -12,7 +12,6 @@ YouTube channel : [www.youtube.com/@Codopro](#)
 Area of Interest: VLSI, Embedded Systems, AI, RISCv Architecture and  AI tools.
 
 
-<!--
 
 <details>
 <summary><h2>About Me Section</h2>
@@ -198,7 +197,9 @@ For more details refer this [🔗link](https://github.com/EkthaReddy/Verilog-pro
 </details>
 
 <details>
-   <summary><h4>Certifications</h4></summary>
+   <summary><h3>Certifications</h3></summary>
+   
+Refer this to see the certifications I earned [🔗link](https://www.linkedin.com/in/ekthareddy/details/certifications/)
    
 </details>
 
