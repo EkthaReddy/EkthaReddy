@@ -11,8 +11,8 @@ YouTube channel : [www.youtube.com/@Codopro](#)
 
 Area of Interest: VLSI, Embedded Systems, AI, RISCv Architecture and  AI tools.
 
-<!--
 
+<!--
 
 <details>
 <summary><h2>About Me Section</h2>
@@ -76,11 +76,41 @@ Let's brief it out individually
 <details>
    <summary><h4>Vending Machine using FSM using Verilog Programming on Xilinx Vivado</h4></summary>
    
+**What is Vending Machine**
+
+A vending machine is a large self-service, often box-like device that sells small items. You put money or a credit card into the machine, choose what you want to buy by pressing a button or touchscreen, and then the machine gives you the item you selected. It’s a convenient way to buy things quickly without needing to go to a store or interact with a cashier.
+
+In this project we will be using 5, 10, 20 and 50 ruppee coins to purchase a five ruppee product. It will have five case to represent each transaction that are going to have, i.e.,
+
+coin 5 represent the case 1.
+
+coin 10 represent the case 2.
+
+coin 20 represent the case 3.
+
+coin 50 represent the case 4.
+
+Moreover, while purchasing goods, if extra money is inserted the vending machine will return back in 5, 10, 20 ruppee coins as they are readily available with almost everyone.
+
+Now, we will look on each specific case with it's function to be performed.
+
+Firstly, we have an idle state which shows no transaction that means the coins are not inserted yet. So, the change of goods will not happen. However, in case 1, the 5 ruppee coin is inserted to purchase five ruppee item, that means no coin will be returned and good is being purchased. Although, five ruppee coin will be returned back in case 2 when the 10 ruppee coin is inserted and it will also mention that the good is sold out. Likewise, in case 3, the 20 ruppee coin is inserted which return back five ruppee coin and ten ruppee coin along with an indication that item is purchased. Same way, when 50 ruppee coin is inserted in case 4, five ruppee coin and twenty ruppee coin will be returned back.
+
+Fore more details on code and performance, Refer this [🔗link](https://github.com/EkthaReddy/Verilog-projects/tree/main/Vending%20Machine).
+
+   
 </details>
 
 <details>
    <summary><h4>Washing Machine using FSM using Verilog Programming on Xilinx Vivado</h4></summary>
-   
+
+Implementing the Control System of an  automatic washing using the Finite State Machine model.
+The Control System generates the control signals to control the overall operation of the washing machine.
+
+For more details refer this [🔗link](https://github.com/EkthaReddy/Verilog-projects/tree/main/Automated%20Washing%20Machine)  
+
+
+
 </details>
 
 <details>
