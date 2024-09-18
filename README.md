@@ -13,8 +13,10 @@ Area of Interest: VLSI, Embedded Systems, AI, RISCv Architecture and  AI tools.
 
 
 <!-- 
+
 <details>
-<summary><h3>About Me</h3></summary>
+<summary><h3>About Me Section<h4>
+Details on projects, Internships, Hacakathons, Symposium, Competition, Certifications, Skills and Extra Curricular Activities : </h4></h3></summary>
 
    Final year student at R.M.K. Engineering College pursuing BE Degree on Electronics and Communication Engineering, maintaing the 8.47 CGPA.
 Completed my 10th and 12th education from PM Shri Kendriya Vidyalaya of Ambarnath, Maharashtra. Secured 85.6% and 86.6% respectively.
@@ -32,7 +34,7 @@ Moreover, I have done projects on Robotics doamin too, where I showcased my fund
 <details>
    <summary><h4>Projects</h4></summary>
 
-As a VLSI student, my passion was not limited to the verys same domain, I have passion for FPGA, AI, Embedded Systems and AI Tools too.
+As a VLSI student, my passion was not limited to the very same domain, I have passion for FPGA, AI, Embedded Systems and AI Tools too.
 This led to curiosity by doing various other projects to concentrate more on complex theories and continously improve myself with evolving technologies.
 
 I have done projects on various platforms.
