@@ -1,4 +1,4 @@
-## Welcome Fam! 
+## Greetings! 
 Myself Ektha Sudhakar Reddy from Chennai, Tamil Nadu.
 
 
@@ -11,12 +11,13 @@ YouTube channel : [www.youtube.com/@Codopro](#)
 
 Area of Interest: VLSI, Embedded Systems, AI, RISCv Architecture and  AI tools.
 
-<!-- 
+
 
 
 <details>
-<summary><h3>About Me Section<h4>
-Details on projects, Internships, Hacakathons, Symposium, Competition, Certifications, Skills and Extra Curricular Activities : </h4></h3></summary>
+<summary><h2>About Me Section</h2>
+   
+**Details on projects, Internships, Hacakathons, Symposium, Competition, Certifications, Skills and Extra Curricular Activities :**</summary>
 
    Final year student at R.M.K. Engineering College pursuing BE Degree on Electronics and Communication Engineering, maintaing the 8.47 CGPA.
 Completed my 10th and 12th education from PM Shri Kendriya Vidyalaya of Ambarnath, Maharashtra. Secured 85.6% and 86.6% respectively.
@@ -32,13 +33,13 @@ Also, to know the problems society is facing, I had done volunteering at Pledge 
 Moreover, I have done projects on Robotics doamin too, where I showcased my fundamental knowledge by applying to pratical setting.
 
 <details>
-   <summary><h5>Projects : All the completed/ongoing projects information are listed below </h5></summary>
+   <summary><h3>Projects : All the completed/ongoing projects information are listed below </h3></summary>
 
 As a VLSI student, my passion was not limited to the very same domain, I have passion for FPGA, AI, Embedded Systems and AI Tools too.
 This led to curiosity by doing various other projects to concentrate more on complex theories and continously improve myself with evolving technologies.
 
 I have done projects on various platforms.
-Such as,
+Which are,
 
 - Xilinx Vivado
 - Cadence Virtuoso
@@ -57,15 +58,50 @@ I have demonstrated my ability to work with FPGA boards aswell, to utilize FPGA 
 I have briefed out the projects I completed below.
    
 <details>
-   <summary><h5>Verilog</h5></summary>
+   <summary><h4>Verilog HDL based projects description.</h4></summary>
 
-   
+   I have worked on various types of concepts on verilog programming, ranging from fsm to computer architecture.
+
+These are the projects so far I have worked on, 
+
 - Vending Machine
 - Washing Machine
 - RISCv Single Cycle Processor
 - Hamming Encoder
 - Haming Decoder
 - SEC-SED Using Hamming technique.
+
+Let's brief it out individually 
+
+<details>
+   <summary><h4>Vending Machine using FSM using Verilog Programming on Xilinx Vivado</h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4>Washing Machine using FSM using Verilog Programming on Xilinx Vivado</h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4>8 bit ALU using Verilog Programming on Xilinx Vivado</h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4>Hamming Encoder using Verilog Programming on Xilinx Vivado</h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4>Hamming Decoder using Verilog Programming on Xilinx Vivado</h4></summary>
+   
+</details>
+
+<details>
+   <summary><h4>SEC-SED Using Hamming technique using Verilog Programming on Xilinx Vivado</h4></summary>
+   
+</details>
 
 </details>
 
@@ -153,10 +189,7 @@ I have briefed out the projects I completed below.
    
 </details>
 
-<details>
-   <summary><h4></h4></summary>
-   
-</details>
+
 
 
 
