@@ -11,8 +11,8 @@ YouTube channel : [www.youtube.com/@Codopro](#)
 
 Area of Interest: VLSI, Embedded Systems, AI, RISCv Architecture and  AI tools.
 
-
 <!-- 
+
 
 <details>
 <summary><h3>About Me Section<h4>
@@ -32,7 +32,7 @@ Also, to know the problems society is facing, I had done volunteering at Pledge 
 Moreover, I have done projects on Robotics doamin too, where I showcased my fundamental knowledge by applying to pratical setting.
 
 <details>
-   <summary><h4>Projects</h4></summary>
+   <summary><h5>Projects : All the completed/ongoing projects information are listed below </h5></summary>
 
 As a VLSI student, my passion was not limited to the very same domain, I have passion for FPGA, AI, Embedded Systems and AI Tools too.
 This led to curiosity by doing various other projects to concentrate more on complex theories and continously improve myself with evolving technologies.
