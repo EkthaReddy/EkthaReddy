@@ -1,13 +1,18 @@
 ## Welcome Fam! 
 Myself Ektha Sudhakar Reddy from Chennai, Tamil Nadu.
 
+
 Email id : reddyektha@gmail.com
 
 LinkedIn Account : [www.linkedin.com/in/ekthareddy](#)
 
 YouTube channel : [www.youtube.com/@Codopro](#)  
 
-<!--
+
+Area of Interest: VLSI, Embedded Systems, AI, RISCv Architecture and  AI tools.
+
+
+<!-- 
 <details>
 <summary><h3>About Me</h3></summary>
 
@@ -15,17 +20,40 @@ YouTube channel : [www.youtube.com/@Codopro](#)
 Completed my 10th and 12th education from PM Shri Kendriya Vidyalaya of Ambarnath, Maharashtra. Secured 85.6% and 86.6% respectively.
 
 
-To provide details about in brief, 
-I am a final year student pursuing ECE with VLSI as major degree. I chose VLSI as my major because it is my true passion and one of my area of interst. 
-I have showed my dedication and determination to pursue the area of interest by doing various projects and internship from the same field.
-Moreover, I have done projects on Robotics doamin too, where I showcased my fundamental knowledge by applying to pratical setting. 
-As for the Internships concern, I completed internships at NSIC, Vlsi System Design, Intershala Trainings.
-Also, to know the problems society is facing, I have done volunteering at Pledge a Smile organization, where I dedicated myself for fundraising, also participated in social media management and content writing on platforms of LinkedIn, Twitter and Instagram.
+To provide details about me in brief : 
 
-All information from the projects to internships I have completed in detail.
+I am a final year student pursuing ECE with VLSI as major degree. I chose VLSI as my major because it is my true passion and one of my area of interest. 
+I have showed my dedication and determination to pursue the area of interest by doing various projects and internships from the same field. 
+As for the Internships concern, I completed internships at NSIC, Vlsi System Design, Intershala Trainings and currently doing at Plasmid.
+Also, to know the problems society is facing, I had done volunteering at Pledge a Smile organization, where I dedicated myself for fundraising, also participated in social media management and content writing on platforms like LinkedIn, Twitter and Instagram.
+
+Moreover, I have done projects on Robotics doamin too, where I showcased my fundamental knowledge by applying to pratical setting.
 
 <details>
    <summary><h4>Projects</h4></summary>
+
+As a VLSI student, my passion was not limited to the verys same domain, I have passion for FPGA, AI, Embedded Systems and AI Tools too.
+This led to curiosity by doing various other projects to concentrate more on complex theories and continously improve myself with evolving technologies.
+
+I have done projects on various platforms.
+Such as,
+
+- Xilinx Vivado
+- Cadence Virtuoso
+- LTspice
+- Microwind
+- Quartus Prime Lite
+- ModelSim - Altera
+- RISCv Toolchain
+- EDA Playground
+- Xilinx ISE
+- Tinkercad
+- Magic
+
+I have demonstrated my ability to work with FPGA boards aswell, to utilize FPGA board I became profiecient with the Xilinx Vivado Suite and Quartus Prime Lite.
+
+I have briefed out the projects I completed below.
+   
 <details>
    <summary><h5>Verilog</h5></summary>
 
