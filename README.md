@@ -11,10 +11,16 @@ YouTube channel : [www.youtube.com/@Codopro](#)
 <details>
 <summary><h3>About Me</h3></summary>
 
-   Final year student at R.M.K. Engineering College pursuing BE Degree on Electronics and Communication Engineering, maintaing the 8.47 CGPA
-Completed my 10th and 12th education from PM Shri Kendriya Vidyalaya of Ambarnath, Maharashtra and secured 85.6% and 86.6% respectively.
+   Final year student at R.M.K. Engineering College pursuing BE Degree on Electronics and Communication Engineering, maintaing the 8.47 CGPA.
+Completed my 10th and 12th education from PM Shri Kendriya Vidyalaya of Ambarnath, Maharashtra. Secured 85.6% and 86.6% respectively.
 
-To provide details about in brief, have done projects on VlSI and IoT. Internships at NSIC, Vlsi System Design, Intershala Trainings and Pledge a Smile.
+
+To provide details about in brief, 
+I am a final year student pursuing ECE with VLSI as major degree. I chose VLSI as my major because it is my true passion and one of my area of interst. 
+I have showed my dedication and determination to pursue the area of interest by doing various projects and internship from the same field.
+Moreover, I have done projects on Robotics doamin too, where I showcased my fundamental knowledge by applying to pratical setting. 
+As for the Internships concern, I completed internships at NSIC, Vlsi System Design, Intershala Trainings.
+Also, to know the problems society is facing, I have done volunteering at Pledge a Smile organization, where I dedicated myself for fundraising, also participated in social media management and content writing on platforms of LinkedIn, Twitter and Instagram.
 
 All information from the projects to internships I have completed in detail.
 
@@ -155,7 +161,7 @@ All information from the projects to internships I have completed in detail.
 
 
 -->
-Myself Ektha. I am in my final years of B.E. Degree in Electronics and Communication Engineering with VLSI honours.
+I am in my final years of B.E. Degree in Electronics and Communication Engineering with VLSI honours.
 
 In this account, you will find the Verilog related subjects
 
