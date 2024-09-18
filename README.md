@@ -11,7 +11,7 @@ YouTube channel : [www.youtube.com/@Codopro](#)
 
 Area of Interest: VLSI, Embedded Systems, AI, RISCv Architecture and  AI tools.
 
-
+<!--
 
 <details>
 <summary><h2>About Me Section</h2>
@@ -81,19 +81,7 @@ A vending machine is a large self-service, often box-like device that sells smal
 
 In this project we will be using 5, 10, 20 and 50 ruppee coins to purchase a five ruppee product. It will have five case to represent each transaction that are going to have, i.e.,
 
-coin 5 represent the case 1.
-
-coin 10 represent the case 2.
-
-coin 20 represent the case 3.
-
-coin 50 represent the case 4.
-
 Moreover, while purchasing goods, if extra money is inserted the vending machine will return back in 5, 10, 20 ruppee coins as they are readily available with almost everyone.
-
-Now, we will look on each specific case with it's function to be performed.
-
-Firstly, we have an idle state which shows no transaction that means the coins are not inserted yet. So, the change of goods will not happen. However, in case 1, the 5 ruppee coin is inserted to purchase five ruppee item, that means no coin will be returned and good is being purchased. Although, five ruppee coin will be returned back in case 2 when the 10 ruppee coin is inserted and it will also mention that the good is sold out. Likewise, in case 3, the 20 ruppee coin is inserted which return back five ruppee coin and ten ruppee coin along with an indication that item is purchased. Same way, when 50 ruppee coin is inserted in case 4, five ruppee coin and twenty ruppee coin will be returned back.
 
 Fore more details on code and performance, Refer this [🔗link](https://github.com/EkthaReddy/Verilog-projects/tree/main/Vending%20Machine).
 
