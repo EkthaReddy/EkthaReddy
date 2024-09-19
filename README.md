@@ -227,7 +227,50 @@ Refer this to see the certifications I earned [🔗link](https://www.linkedin.co
 
 <details>
    <summary><h3>Skills</h3></summary>
+
+**Technical Skills**: 
+
+- Fundamentals of RISC-V Architecture
+-  Digital electronics
+- Field Programmable Gate Array(FPGA).
+
+**Circuit Simlulations**: 
+- Xilinx Vivado
+- Cadence Virtuoso
+- LtSpice, EdaPlayground
+- Microwind
+- Xilinx ISE
+- Quartus Prime Lite
+- Altera
+- ModelSim
+- RISC-V Toolchain
+- Magic
+- TinkerCad.
+
+
+
+ **Programming Languages**:
+
+ - Verilog HDL
+ - Python Programming
+ - C Programming
+ - SQL
+ - HTML
+ - CSS.
+
    
+**Non Technical Skills**
+
+-  Leadership
+-  Teamwork
+-  Time Management
+-  Canva
+-  Video Editing
+-  UI/UX
+
+
+**Languages**: Hindi, Telugu, English, Marathi, Tamil
+
 </details>
 
 <!--
