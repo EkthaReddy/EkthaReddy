@@ -162,10 +162,13 @@ Xilinx Vivado 2024.1 for design, simulation, and synthesis.
    <summary><h3>Cadence Virtuoso</h3></summary>
 
 
-Cadence Virtuoso, mainly used for 
+Cadence Virtuoso, mainly used for schematic diagram and optimization of power, speed and area.
+
+In this platform, I have completed few projects to undertsnad the performanace, functions and ways to innovate the projects. 
+Below projects highlights my fundamental knowledge of modern ICs and optimization of CMOS technology.
 
    
-- Five staged VCO
+- Five staged current starved VCO
 - Rippple Carry Adder
 - SRAM
 - Full Adder
@@ -177,12 +180,17 @@ Cadence Virtuoso, mainly used for
 <details>
    <summary><h5>FPGA Artix - 7</h5></summary>
 
-- Full Adder
-- Hamming Encoder
-- Haming Decoder
-- SEC-SED Using Hamming technique.
-</details>
 
+To implement a project on FPGA, I have done the systhesis and implementation on Xilinx Vivado to generate bitstream and also provided the pin assignment for I/O
+
+The projects I have Completed are
+
+- Full Adder
+- [Hamming Encoder]((https://github.com/EkthaReddy/Hamming-Encoder-using-Verilog-Programming))
+- [Haming Decoder]((https://github.com/EkthaReddy/Hamming-Decoder-using-Verilog-Programming)
+- [SEC-SED Using Hamming technique.]((https://github.com/EkthaReddy/SEC-SED-Hamming-Technique-using-Xilinx-Vivado-and-Artix-7-FPGA))
+  
+</details>
 
 
    
