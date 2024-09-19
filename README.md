@@ -159,7 +159,7 @@ Xilinx Vivado 2024.1 for design, simulation, and synthesis.
 </details>
 
 <details>
-   <summary><h3>Cadence Virtuoso</h3></summary>
+   <summary><h4>Cadence Virtuoso</h4></summary>
 
 
 Cadence Virtuoso, mainly used for schematic diagram and optimization of power, speed and area.
@@ -178,7 +178,7 @@ Below projects highlights my fundamental knowledge of modern ICs and optimizatio
 </details> 
 
 <details>
-   <summary><h5>FPGA Artix - 7</h5></summary>
+   <summary><h4>FPGA Artix - 7</h4></summary>
 
 
 To implement a project on FPGA, I have done the systhesis and implementation on Xilinx Vivado to generate bitstream and also provided the pin assignment for I/O
@@ -215,12 +215,15 @@ The projects I have Completed are
 Checkout the repository for more details on the internship 
 - [VSDSquadron Mini Internship](https://github.com/EkthaReddy/VSDSquadron-Mini-Internship)
 
+</details>
+
 <details>
    <summary><h3>Certifications</h3></summary>
    
 Refer this to see the certifications I earned [🔗link](https://www.linkedin.com/in/ekthareddy/details/certifications/)
    
 </details>
+
 
 <details>
    <summary><h4>Skills</h4></summary>
