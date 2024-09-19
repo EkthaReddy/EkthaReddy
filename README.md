@@ -63,18 +63,33 @@ I have briefed out the projects I completed below.
 
 These are the projects so far I have worked on, 
 
-- Vending Machine
-- Washing Machine
 - RISCv Single Cycle Processor
-- Hamming Encoder
-- Haming Decoder
-- SEC-SED Using Hamming technique.
+- Vending Machine using FSM using Verilog Programming on Xilinx Vivado
+- Automatic Washing Machine using FSM using Verilog Programming on Xilinx Vivado
+- 8 bit ALU using Verilog Programming on Xilinx Vivado
+- Hamming Encoder using Verilog Programming on Xilinx Vivado
+- Hamming Decoder using Verilog Programming on Xilinx Vivado
+- SEC-SED Using Hamming technique using Verilog Programming on Xilinx Vivado
 
 Let's brief it out individually 
 
 <details>
+
+   <summary><h4>RISC-V Single Cycle Processor Design</h4></summary>
+
+- Reduced Instruction Set Computation Design for Single Cycle Processor is implemented on Xilinx Vivado 2024.1. with testbench.
+  
+- Written code and testbench for each main components like instruction memory, program counter, register file and data memory including the other essential components such as extend file, adders and multipliers
+
+Fore more details on code and performance, Refer this [🔗link](https://github.com/EkthaReddy/RISC-V-Single-Cycle-Processor)
+
+
+</details>
+
+
+<details>
    <summary><h4>Vending Machine using FSM using Verilog Programming on Xilinx Vivado</h4></summary>
-   
+
 **What is Vending Machine**
 
 A vending machine is a large self-service, often box-like device that sells small items. You put money or a credit card into the machine, choose what you want to buy by pressing a button or touchscreen, and then the machine gives you the item you selected. It’s a convenient way to buy things quickly without needing to go to a store or interact with a cashier.
@@ -89,7 +104,7 @@ Fore more details on code and performance, Refer this [🔗link](https://github.
 </details>
 
 <details>
-   <summary><h4>Washing Machine using FSM using Verilog Programming on Xilinx Vivado</h4></summary>
+   <summary><h4>Automatic Washing Machine using FSM using Verilog Programming on Xilinx Vivado</h4></summary>
 
 Implementing the Control System of an  automatic washing using the Finite State Machine model.
 The Control System generates the control signals to control the overall operation of the washing machine.
@@ -185,10 +200,11 @@ To implement a project on FPGA, I have done the systhesis and implementation on 
 
 The projects I have Completed are
 
-- Full Adder
-- [Hamming Encoder]((https://github.com/EkthaReddy/Hamming-Encoder-using-Verilog-Programming))
-- [Haming Decoder]((https://github.com/EkthaReddy/Hamming-Decoder-using-Verilog-Programming)
-- [SEC-SED Using Hamming technique.]((https://github.com/EkthaReddy/SEC-SED-Hamming-Technique-using-Xilinx-Vivado-and-Artix-7-FPGA))
+
+- [Hamming Encoder using Verilog Programming on Xilinx Vivado](https://github.com/EkthaReddy/Hamming-Encoder-using-Verilog-Programming)
+- [Hamming Decoder using Verilog Programming on Xilinx Vivado](https://github.com/EkthaReddy/Hamming-Decoder-using-Verilog-Programming)
+- [SEC-SED Using Hamming technique using Verilog Programming on Xilinx Vivado](https://github.com/EkthaReddy/SEC-SED-Hamming-Technique-using-Xilinx-Vivado-and-Artix-7-FPGA)
+- [8 bit ALU using Verilog Programming on Xilinx Vivado](https://github.com/EkthaReddy/8-bit-ALU-using-Verilog-HDL/tree/main). 
   
 </details>
 
