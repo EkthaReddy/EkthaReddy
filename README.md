@@ -226,7 +226,7 @@ Refer this to see the certifications I earned [🔗link](https://www.linkedin.co
 
 
 <details>
-   <summary><h4>Skills</h4></summary>
+   <summary><h3>Skills</h3></summary>
    
 </details>
 
