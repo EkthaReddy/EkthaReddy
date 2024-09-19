@@ -11,7 +11,7 @@ YouTube channel : [www.youtube.com/@Codopro](#)
 
 Area of Interest: VLSI, Embedded Systems, AI, RISCv Architecture and  AI tools.
 
-<!--
+
 
 <details>
 <summary><h2>About Me Section</h2>
@@ -121,23 +121,49 @@ For more details on codes and performance refer this [🔗link](https://github.c
 
 <details>
    <summary><h4>Hamming Encoder using Verilog Programming on Xilinx Vivado</h4></summary>
-   
+
+   This project implements a Hamming Encoder using Verilog HDL in Xilinx Vivado. The encoder generates parity bits and encodes a 4-bit data input into a 7-bit output, detecting and correcting single-bit errors in data transmission. The design follows the Hamming (7,4) code, where 4 bits of data are encoded with 3 parity bits.
+
+For more details on codes and performance refer this [🔗link](https://github.com/EkthaReddy/Hamming-Encoder-using-Verilog-Programming)
+
 </details>
 
 <details>
    <summary><h4>Hamming Decoder using Verilog Programming on Xilinx Vivado</h4></summary>
+
+   This project implements a Hamming Decoder using Verilog on Xilinx Vivado 2024.1. The Hamming Decoder is designed to correct single-bit errors in a 7-bit codeword using the (7,4) Hamming code. This error-correction mechanism is widely used in digital communication and storage systems to improve data reliability.
+
+This project demonstrates the use of Verilog HDL for implementing error detection and correction techniques on FPGA platforms.
+
+For more details on codes and performance refer this [🔗link](https://github.com/EkthaReddy/Hamming-Decoder-using-Verilog-Programming)
    
 </details>
 
 <details>
    <summary><h4>SEC-SED Using Hamming technique using Verilog Programming on Xilinx Vivado</h4></summary>
-   
+
+he Verilog implementation of a SEC-SED Hamming Code designed for error detection and correction. The Hamming Code ensures single-bit error correction and two-bit error detection during data transmission, enhancing reliability in digital systems.
+
+Features:
+Single Error Correction: Corrects any single-bit errors in the transmitted data.
+Single Error Detection: Detects two-bit errors.
+Modular Design: Includes separate encoder and decoder modules for modularity and reusability.
+Testbench: A comprehensive testbench is provided to verify the functionality of both the encoder and decoder using multiple test cases.
+Tools:
+
+Xilinx Vivado 2024.1 for design, simulation, and synthesis.
+
+   For more details on codes and performance refer this [🔗link](https://github.com/EkthaReddy/SEC-SED-Hamming-Technique-using-Xilinx-Vivado-and-Artix-7-FPGA)
 </details>
 
 </details>
 
 <details>
-   <summary><h5>Cadence Virtuoso</h5></summary>
+   <summary><h3>Cadence Virtuoso</h3></summary>
+
+
+Cadence Virtuoso, mainly used for 
+
    
 - Five staged VCO
 - Rippple Carry Adder
@@ -163,40 +189,23 @@ For more details on codes and performance refer this [🔗link](https://github.c
 </details>
 
 <details>
-   <summary><h4>Internships</h4></summary>
-
-   ### NSIC 
-<details>
-   <summary><h5>Electric Vehicles</h5></summary>
+   <summary><h3>Internships : The internship details are given below</h3></summary>
    
-</details>
+**Ongoing**
 
-<details>
-   <summary><h5>IoT Rasberry Pi</h5></summary>
-   
-</details>
+- Currently, doing internship at Plasmid for embedded systems.
+- Time period: September to October 
 
-<details>
-   <summary><h5>VLSI System Design</h5></summary>
-   
-</details>
+**Completed** 
 
-<details>
-   <summary><h5>Intershala Trainings</h5></summary>
-   
-</details>
+- Completed intership on VLSI Design at Intershala, covering concepts on combinational and sequential circuits, FSMs, System design using FPGA, and project to be done by the end of internship.
 
-<details>
-   <summary><h5>Pledge A Smile</h5></summary>
-   
-</details>
+   - This internship is helpful for building my knowledge and skills on VLSI design and also provide project as a practical based learning.
+     
+- I have completed my internship on RISC-V and VLSI Design using the mini board at VLSI System Design under the guidance of Kunal Ghosh.
 
-</details>
-
-<details>
-   <summary><h4>Hackathons</h4></summary>
-   
-</details>
+Checkout the repository for more details on the internship 
+- [VSDSquadron Mini Internship](https://github.com/EkthaReddy/VSDSquadron-Mini-Internship)
 
 <details>
    <summary><h3>Certifications</h3></summary>
@@ -210,10 +219,12 @@ Refer this to see the certifications I earned [🔗link](https://www.linkedin.co
    
 </details>
 
+<!--
 <details>
-   <summary><h4>Extra ciriculum</h4></summary>
+   <summary><h4>Hackathons</h4></summary>
    
 </details>
+
 
 
 
@@ -254,9 +265,6 @@ Refer this to see the certifications I earned [🔗link](https://www.linkedin.co
 
 
 
-
-
--->
 I am in my final years of B.E. Degree in Electronics and Communication Engineering with VLSI honours.
 
 In this account, you will find the Verilog related subjects
@@ -274,18 +282,7 @@ Make sure to visit the YouTube channel at [www.youtube.com/@Codopro](#) for Veri
 ### Internship 
 
 <!--
-**Ongoing**
 
-- Currently, doing internship at Plasmid for embedded systems.
-- Time period: September to October 
 
-**Completed** -->
 
-- Completed intership on VLSI Design at Intershala, covering concepts on combinational and sequential circuits, FSMs, System design using FPGA, and project to be done by the end of internship.
-
-   - This internship is helpful for building my knowledge and skills on VLSI design and also provide project as a practical based learning.
-     
-- I have completed my internship on RISC-V and VLSI Design using the mini board at VLSI System Design under the guidance of Kunal Ghosh.
-
-Checkout the repository for more details on the internship 
-- [VSDSquadron Mini Internship](https://github.com/EkthaReddy/VSDSquadron-Mini-Internship)
+-->
